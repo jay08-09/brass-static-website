@@ -1,4 +1,5 @@
 import React from 'react'
+// import iamge from ""
 
 const Firstsection = () => {
     return (
@@ -20,7 +21,7 @@ const Firstsection = () => {
                 </div>
 
                 <div class="lg:w-1/2 flex justify-center mb-8 lg:mb-0">
-                    <img src="path/to/your-image.png" alt="Computer screen with dark UI" class="w-full max-w-md lg:max-w-full" />
+                    <img src="src/assets/desktop.webp" alt="Computer screen with dark UI" class="w-full max-w-md lg:max-w-full" />
                 </div>
             </div>
 
