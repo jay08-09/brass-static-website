@@ -1,15 +1,12 @@
 import { useState } from 'react'
 import './App.css'
+import Firstsection from './sections/first-section/first-section'
 
 function App() {
 
   return (
     <>
-      <div className="min-h-screen flex justify-center items-center bg-gray-100">
-        <h1 className="text-4xl font-bold text-blue-500">
-          Hello, Tailwind with Vite & React!
-        </h1>
-      </div>
+      <Firstsection />      
     </>
   )
 }

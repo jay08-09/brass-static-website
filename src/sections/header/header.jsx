@@ -43,7 +43,10 @@ const Header = () => {
         <a href="#about" className="hover:text-gray-700">About</a>
         <a href="#products" className="hover:text-gray-700">Products</a>
         <a href="#contact" className="hover:text-gray-700">Contact</a>
-        <button className="bg-gray-800 text-white px-4 py-2 rounded-full hover:bg-gray-900">
+        {/* <button className="bg-gray-800 text-white px-4 py-2 rounded-full hover:bg-gray-900">
+          Shop
+        </button> */}
+        <button className="bg-purple-500 text-white px-4 py-2 rounded-full hover:bg-gray-900">
           Shop
         </button>
       </nav>
